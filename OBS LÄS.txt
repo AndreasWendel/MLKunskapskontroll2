@@ -1,0 +1,22 @@
+ML_Kunskapskontroll innehåller alla modeller, koder och eventuella bilder
+Kör Streamlit_app.py scriptet i terminalen
+om appen inte fungerar så kan det potentiellt vara för att alla joblib filer använder pathen
+./ML_kunskapskontroll/xxx
+med det sagt ha kvar alla filer och scriptet i mappen annars kan koden få svårigheter att hitta filer.
+
+MNIST kunskapskontroll 2 AW.py innehåller all kod som skrivits för att skapa modeller och test.
+koden är inte speciellt ren eftersom en den inte skall använda egentligen.
+det kanske går att köra koden men :)
+troligtvis kan de dyka upplika struktur errors
+
+i Vilket fall som helst kör streamlit_app.py, behåll filerna o ML_kunskapskontroll mappen,
+vill du flytta filerna flytta då hela mappen.
+
+rapporten och bilder finns i ML kunskapskontroll 2 rapport del mappen
+
+annars tack för mig ha så kul. läs gärna igenom data och modelling sidan.
+scriptet kan va lite krävande prestanda mässigt
+
+vid problem åter koppla gärna
+
+
